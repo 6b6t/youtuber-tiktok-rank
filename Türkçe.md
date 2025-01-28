@@ -1,4 +1,4 @@
-6b6t'de 3 tür rank bulunur: [6b6t mağazasından](https://www.6b6t.org/shop?ref=blog.6b6t.org) ücretli ranklar, size birçok ödül veren /vote rankı [/vote İle Oy Ver](https://blog.6b6t.org/what-do-you-get-for-voting-on-minecraft-anarchy-6b6t/) ve iki derece içerik oluşturucular için: TikTok rankı ve YouTuber rankı. Burada bunları nasıl elde edebileceğinizi anlatıyoruz.
+6b6t'de 3 tür rank bulunur: [6b6t mağazasından](https://www.6b6t.org/shop?ref=github.com) ücretli ranklar, size birçok ödül veren /vote rankı [/vote İle Oy Ver](https://blog.6b6t.org/what-do-you-get-for-voting-on-minecraft-anarchy-6b6t/) ve iki derece içerik oluşturucular için: TikTok rankı ve YouTuber rankı. Burada bunları nasıl elde edebileceğinizi anlatıyoruz.
  
 ***
  
@@ -28,7 +28,7 @@ Hem TikTok rankı hem de YouTuber rankı Elit rankının tüm avantajlarından y
 - harika videolar ve resimler oluşturmak için /buildermode komutu ve 22 render mesafesi
 - deneyiminizi geliştirecek kozmetik komutlar olan /balloons, /hat, /skin ve /sit komutlarına erişim
  
-Tüm avantajları [6b6t'nin mağazasında](https://www.6b6t.org/shop?ref=blog.6b6t.org) okuyabilirsiniz.
+Tüm avantajları [6b6t'nin mağazasında](https://www.6b6t.org/shop?ref=github.com) okuyabilirsiniz.
  
 ***
  
