@@ -1,4 +1,4 @@
-6b6t ma 3 rodzaje rang na serwerze: płatne rangi [z sklepu 6b6t](https://www.6b6t.org/shop?ref=blog.6b6t.org), rangi za głosowanie, które dają [wiele nagród za codzienne głosowanie komendą /vote](https://blog.6b6t.org/what-do-you-get-for-voting-on-minecraft-anarchy-6b6t/), oraz dwie rangi dla twórców: TikTok i YouTuber. Oto jak je zdobyć.
+6b6t ma 3 rodzaje rang na serwerze: płatne rangi [z sklepu 6b6t](https://www.6b6t.org/shop?ref=github.com), rangi za głosowanie, które dają [wiele nagród za codzienne głosowanie komendą /vote](https://blog.6b6t.org/what-do-you-get-for-voting-on-minecraft-anarchy-6b6t/), oraz dwie rangi dla twórców: TikTok i YouTuber. Oto jak je zdobyć.
 
 * * *
 
@@ -28,7 +28,7 @@ Zarówno TikTok, jak i YouTuber oferują wszystkie przywileje rangi Elite. Obejm
 -   /buildermode do tworzenia niesamowitych filmów i obrazów z renderem na 22 kraty  
 -   Kosmetyki /balloons, /hat, /skin i /sit, aby ulepszyć swoje doświadczenie  
 
-Więcej o przywilejach możesz przeczytać [w sklepie 6b6t](https://www.6b6t.org/shop?ref=blog.6b6t.org).
+Więcej o przywilejach możesz przeczytać [w sklepie 6b6t](https://www.6b6t.org/shop?ref=github.com).
 
 * * *
 
