@@ -32,6 +32,6 @@ Tüm avantajları [6b6t'nin mağazasında](https://www.6b6t.org/shop?ref=blog.6b
  
 ***
  
-qbasty ile TikTok/YouTuber  Rankına veya discord rolüne başvurmak için bu formu kullanın: [https://docs.google.com/forms/d/e/1FAIpQLScBEuAU3pi2prQyqA-U\_n8sOnB0Ym05W6FhOoQoREuPjRyjxA/viewform?usp=dialog](https:// /docs.google.com/forms/d/e/1FAIpQLScBEuAU3pi2prQyqA-U_n8sOnB0Ym05W6FhOoQoREuPjRyjxA/viewform?usp=dialog&ref=blog.6b6t.org)
+qbasty ile TikTok/YouTuber  Rankına veya discord rolüne başvurmak için bu formu kullanın: https://docs.google.com/forms/d/e/1FAIpQLScBEuAU3pi2prQyqA-U\_n8sOnB0Ym05W6FhOoQoREuPjRyjxA/viewform?usp=dialog
  
 Eğer yayıncı iseniz contact@6b6t.org adresinden bize e-posta gönderin. 
